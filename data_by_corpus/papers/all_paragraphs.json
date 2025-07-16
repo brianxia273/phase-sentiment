@@ -1,0 +1,20 @@
+{
+  "10.1109/TASC.2016.2631939": [
+    {
+      "_id": "para_1",
+      "text": "The superconducting critical temperature (Tc > 15 K) of niobium titanium nitride (NbTiN) thin films allows for low-loss circuits up to 1.1 THz, enabling on-chip spectroscopy and multipixel imaging with advanced detectors. The drive for large-scale detector microchips is demanding NbTiN films with uniform properties over an increasingly larger area. This paper provides an experimental comparison between two reactive dc sputter systems with different target sizes: a small target (ø100 mm) and a large target (127 mm × 444.5 mm). This paper focuses on maximizing the Tc of the films and the accompanying I-V characteristics of the sputter plasma, and we find that both systems are capable of depositing films with Tc > 15 K. The resulting film uniformity is presented in a second manuscript in this volume. We find that these films are deposited within the transition from metallic to compound sputtering, at the point where target nitridation most strongly depends on nitrogen flow. Key in the deposition optimization is to increase the system's pumping speed and gas flows to counteract the hysteretic effects induced by the target size. Using the I-V characteristics as a guide proves to be an effective way to optimize a reactive sputter system, for it can show whether the optimal deposition regime is hysteresis-free and accessible."
+    },
+    {
+      "_id": "para_2",
+      "text": "The parameters that define the target voltage are mostly determined by the target-plasma characteristics. W0 depends on the chosen inert working gas, γISEE is a property of the target metal and the fraction of its surface covered with compound [12] and E is especially strongly dependent on the gas pressure. Therefore, the I-V relationship is suitable to provide a good empirical insight in the behaviour of the plasma and its interactions with the target, which eventually form the basis of the thin film growth and thus primarily define the properties of the deposited thin film."
+    },
+    {
+      "_id": "para_3",
+      "text": "A reactive sputter deposition machine is a complex physical system, where electrical, geometrical and material parameters together define the plasma behavior, the plasma-target interaction and finally the deposition onto the substrate. We show that by using the shape of I-V curves as a guide, we can easily examine the behavior of the system to adapt film properties to our need. The I-V curves are a tool to compare various set-ups with different target size, for it provides quantitative feedback depending on every internal parameter and setting"
+    },
+    {
+      "_id": "para_4",
+      "text": "Furthermore, NbTiN thin films with high Tc can only be sputtered in the transition of a metallic target towards a saturated target. This transition should therefore be accessible and free of hysteresis. The system parameters required for such behaviour are highly dependent on the target size, which primarily defines the nitrogen consumption. Eliminating hysteresis by using an appropriate pumping speed and gas flows, opens up the possibility to fabricate stoichiometric NbTiN with Tc> 15 K."
+    }
+  ]
+}
