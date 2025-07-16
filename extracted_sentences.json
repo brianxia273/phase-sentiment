@@ -1,0 +1,14 @@
+[
+  {
+    "sentences": [
+      "The superconducting critical temperature (Tc > 15 K) of niobium titanium nitride (NbTiN) thin films allows for low-loss circuits up to 1.1 THz, enabling on-chip spectroscopy and multipixel imaging with advanced detectors.",
+      "This paper focuses on maximizing the Tc of the films and the accompanying I-V characteristics of the sputter plasma, and we find that both systems are capable of depositing films with Tc > 15 K. The resulting film uniformity is presented in a second manuscript in this volume.",
+      "Using the I-V characteristics as a guide proves to be an effective way to optimize a reactive sputter system, for it can show whether the optimal deposition regime is hysteresis-free and accessible."
+    ],
+    "doi": "10.1109/TASC.2016.2631939",
+    "paragraph": {
+      "_id": "para_1",
+      "text": "The superconducting critical temperature (Tc > 15 K) of niobium titanium nitride (NbTiN) thin films allows for low-loss circuits up to 1.1 THz, enabling on-chip spectroscopy and multipixel imaging with advanced detectors. The drive for large-scale detector microchips is demanding NbTiN films with uniform properties over an increasingly larger area. This paper provides an experimental comparison between two reactive dc sputter systems with different target sizes: a small target (\u00c3\u00b8100 mm) and a large target (127 mm \u00c3\u2014 444.5 mm). This paper focuses on maximizing the Tc of the films and the accompanying I-V characteristics of the sputter plasma, and we find that both systems are capable of depositing films with Tc > 15 K. The resulting film uniformity is presented in a second manuscript in this volume. We find that these films are deposited within the transition from metallic to compound sputtering, at the point where target nitridation most strongly depends on nitrogen flow. Key in the deposition optimization is to increase the system's pumping speed and gas flows to counteract the hysteretic effects induced by the target size. Using the I-V characteristics as a guide proves to be an effective way to optimize a reactive sputter system, for it can show whether the optimal deposition regime is hysteresis-free and accessible."
+    }
+  }
+]
